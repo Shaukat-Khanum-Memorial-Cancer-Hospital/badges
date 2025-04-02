@@ -4,5 +4,9 @@
   "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/issuer.json",
   "name": "Shaukat Khanum Memorial Cancer Hospital & Research Centre",
   "url": "https://shaukatkhanum.org.pk",
-  "description": "Shaukat Khanum Memorial Cancer Hospital and Research Centres (SKMCH&RC) are state-of-the-art cancer centres located in Lahore and Peshawar, Pakistan."
+  "description": "Shaukat Khanum Memorial Cancer Hospital and Research Centres (SKMCH&RC) are state-of-the-art cancer centres located in Lahore, Karachi and Peshawar, Pakistan.",
+  "address": {
+     "type": "PostalAddress",
+     "addressCountry": "PK"
+   }
 }
