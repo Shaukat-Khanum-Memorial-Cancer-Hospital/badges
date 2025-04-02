@@ -1,0 +1,39 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/advanced-pediatric-life-support.json",
+  "name": "Advanced Pediatric Life Support Certification",
+  "description": "This badge certifies specialized training in managing life-threatening pediatric emergencies, including respiratory failure, shock, and cardiac arrest in children and infants. The recipient has demonstrated proficiency in age-specific assessment, advanced airway techniques, fluid resuscitation, and pharmacological interventions for critically ill pediatric patients.",
+  "image": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/apls-logo.png?raw=true",
+  "criteria": {
+    "narrative": "Successfully completed: 1) Pediatric assessment triangle 2) Age-specific resuscitation protocols 3) Management of respiratory distress/failure 4) Shock recognition and treatment 5) Pediatric toxicology 6) Trauma stabilization 7) Family-centered care during emergencies"
+  },
+  "issuer": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/issuer.json",
+  "tags": [
+    "APLS",
+    "Pediatrics",
+    "EmergencyMedicine",
+    "Neonatal",
+    "InfantCPR",
+    "RespiratoryFailure",
+    "PediatricShock",
+    "PALS",
+    "ChildHealth",
+    "EmergencyDrugs",
+    "TraumaCare",
+    "Dehydration",
+    "SeizureManagement"
+  ],
+  "alignment": [
+    {
+      "targetName": "American Academy of Pediatrics APLS Guidelines",
+      "targetUrl": "https://www.aap.org",
+      "targetDescription": "Meets AAP standards for pediatric emergency care"
+    },
+    {
+      "targetName": "Pakistan Pediatric Association",
+      "targetUrl": "https://www.pakpaediatrics.com",
+      "targetDescription": "Aligns with national pediatric emergency protocols"
+    }
+  ]
+}
