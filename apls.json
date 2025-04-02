@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/advanced-pediatric-life-support.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/apls.json",
   "name": "Advanced Pediatric Life Support Certification",
   "description": "This badge certifies specialized training in managing life-threatening pediatric emergencies, including respiratory failure, shock, and cardiac arrest in children and infants. The recipient has demonstrated proficiency in age-specific assessment, advanced airway techniques, fluid resuscitation, and pharmacological interventions for critically ill pediatric patients.",
   "image": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/apls-logo.png?raw=true",
