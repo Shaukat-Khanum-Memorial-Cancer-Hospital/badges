@@ -1,8 +1,8 @@
 {
-  "@context": "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.0.json",
+  "@context": "https://w3id.org/openbadges/v2",
   "type": "Profile",
   "id": "https://shaukatkhanum.org.pk/badges/issuer.json",
-  "name": "Shaukat Khanum Memorial Cancer Hospital and Research Centre",
+  "name": "Shaukat Khanum Memorial Cancer Hospital & Research Centre",
   "url": "https://shaukatkhanum.org.pk",
   "description": "A state-of-the-art cancer centre providing free treatment to thousands of cancer patients in Pakistan",
   "address": {
