@@ -1,16 +1,15 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/assertions/haseebbls.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/assertions/haseeb.json",
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "haseeb022@hotmail.com"
+    "identity": "haseeb.ahsin@skm.org.pk"
   },
   "badge": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/basic-life-support.json",
   "verification": {
     "type": "hosted"
   },
-  "issuedOn": "2023-08-11T00:00:00Z",
-  "evidence": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/BLS.png?raw=true"
+  "issuedOn": "2023-08-11T00:00:00Z"
 }
