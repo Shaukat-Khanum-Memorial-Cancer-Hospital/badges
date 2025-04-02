@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/assertions/haseeb.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/assertions/haseebbls.json",
   "recipient": {
     "type": "email",
     "hashed": false,
