@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/advanced-cardiac-life-support.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/als.json",
   "name": "Advanced Cardiac Life Support Certification",
   "description": "This badge certifies successful completion of ACLS training, demonstrating expertise in managing cardiac arrest, peri-arrest conditions, and complex cardiovascular emergencies. The recipient has mastered advanced interventions including airway management, rhythm interpretation, pharmacological therapy, and team leadership during resuscitation.",
   "image": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/als-logo.png?raw=true",
