@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/basic-life-support.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/bls.json",
   "name": "Basic Life Support Certification",
   "description": "This badge certifies competency in essential lifesaving skills per international standards. Recipients have demonstrated proficiency in CPR, AED use, and management of choking emergencies for adults, children, and infants in clinical and community settings.",
   "image": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/bls-logo.png?raw=true",
