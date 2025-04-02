@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/assertions/acls.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "haseeb.ahsin@skm.org.pk"
+  },
+  "badge": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/als.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2023-10-24T00:00:00Z"
+}
