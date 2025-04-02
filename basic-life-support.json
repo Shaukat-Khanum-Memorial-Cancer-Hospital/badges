@@ -1,13 +1,41 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/basic-life-support.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/main/basic-life-support.json",
   "name": "Basic Life Support Certification",
-  "description": "This badge is awarded for the successful completion of the Basic Life Support (BLS) training, demonstrating proficiency in fundamental lifesaving skills. The recipient has acquired hands-on experience in cardiopulmonary resuscitation (CPR), automated external defibrillator (AED) use, and management of choking emergencies for adults, children, and infants.",
+  "description": "This badge certifies competency in essential lifesaving skills per international standards. Recipients have demonstrated proficiency in CPR, AED use, and management of choking emergencies for adults, children, and infants in clinical and community settings.",
   "image": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/bls-logo.png?raw=true",
   "criteria": {
-    "narrative": "Passed theoretical and practical exams covering CPR, AED use, and emergency response protocols."
+    "narrative": "Successful completion of: 1) One-rescuer CPR 2) AED operation 3) Relief of choking 4) Bag-mask ventilation 5) Activation of emergency response systems"
   },
-  "issuer": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/issuer.json",
-  "tags": ["BLS", "CPR", "AED", "EmergencyResponse", "FirstAid", "Healthcare", "MedicalTraining", "LifeSavingSkills", "Resuscitation"]
+  "issuer": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/main/issuer.json",
+  "tags": [
+    "BLS",
+    "CPR",
+    "AED",
+    "FirstAid",
+    "EmergencyCare",
+    "Healthcare",
+    "LifeSupport",
+    "SKMCH",
+    "Pakistan",
+    "Resuscitation"
+  ],
+  "alignment": [
+    {
+      "targetName": "American Heart Association BLS Guidelines",
+      "targetUrl": "https://cpr.heart.org/en/cpr-courses-and-kits/healthcare-professional/basic-life-support-bls-training",
+      "targetDescription": "Meets AHA 2020 Guidelines"
+    },
+    {
+      "targetName": "Pakistan Medical Commission",
+      "targetUrl": "https://www.pmc.gov.pk",
+      "targetDescription": "Recognized by national medical authority"
+    }
+  ],
+  "expires": {
+    "id": "https://shaukatkhanum.org.pk/badges/renewal",
+    "name": "BLS Recertification",
+    "description": "Valid for 2 years from issuance date"
+  }
 }
