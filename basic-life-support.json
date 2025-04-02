@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/BLS.json",
+  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/basic-life-support.json",
   "name": "Basic Life Support Certification",
   "description": "This badge is awarded for the successful completion of the Basic Life Support (BLS) training, demonstrating proficiency in fundamental lifesaving skills. The recipient has acquired hands-on experience in cardiopulmonary resuscitation (CPR), automated external defibrillator (AED) use, and management of choking emergencies for adults, children, and infants.",
   "image": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/b5d47f0b-db79-474c-b9e4-2d23af12dec2.svg",
