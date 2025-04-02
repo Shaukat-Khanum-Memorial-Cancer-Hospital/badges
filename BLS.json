@@ -1,22 +1,13 @@
 {
-  "@context": "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.0.json",
-  "type": "Achievement",
-  "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/BLS.json",
-  "name": "Basic Life Support",
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://shaukatkhanum.org.pk/badges/basic-life-support.json",
+  "name": "Basic Life Support Certification",
   "description": "This badge is awarded for the successful completion of the Basic Life Support (BLS) training, demonstrating proficiency in fundamental lifesaving skills. The recipient has acquired hands-on experience in cardiopulmonary resuscitation (CPR), automated external defibrillator (AED) use, and management of choking emergencies for adults, children, and infants.",
-  "image": {
-    "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/b5d47f0b-db79-474c-b9e4-2d23af12dec2.svg",
-    "type": "Image"
+  "image": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/b5d47f0b-db79-474c-b9e4-2d23af12dec2.svg",
+  "criteria": {
+    "narrative": "Passed theoretical and practical exams covering CPR, AED use, and emergency response protocols."
   },
-  "issuer": {
-    "type": "Profile",
-    "id": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/issuer.json",
-    "name": "Shaukat Khanum Memorial Cancer Hospital and Research Centre",
-    "url": "https://shaukatkhanum.org.pk",
-    "description": "A state-of-the-art cancer centre providing free treatment to thousands of cancer patients in Pakistan"
-  },
-  "achievementType": "Badge",
-  "tags": ["BLS", "CPR", "AED", "EmergencyResponse", "FirstAid", "Healthcare", "MedicalTraining", "LifeSavingSkills", "Resuscitation", "ShaukatKhanum"],
-  "alignment": [],
-  "resultDescriptions": []
+  "issuer": "https://raw.githubusercontent.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/refs/heads/main/issuer.json",
+  "tags": ["BLS", "CPR", "AED", "EmergencyResponse", "FirstAid", "Healthcare", "MedicalTraining", "LifeSavingSkills", "Resuscitation"]
 }
