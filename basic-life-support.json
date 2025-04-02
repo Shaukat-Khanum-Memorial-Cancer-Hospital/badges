@@ -32,10 +32,5 @@
       "targetUrl": "https://www.pmc.gov.pk",
       "targetDescription": "Recognized by national medical authority"
     }
-  ],
-  "expires": {
-    "id": "https://shaukatkhanum.org.pk/badges/renewal",
-    "name": "BLS Recertification",
-    "description": "Valid for 2 years from issuance date"
-  }
+  ]
 }
