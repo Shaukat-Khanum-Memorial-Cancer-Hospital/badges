@@ -1,0 +1,49 @@
+{
+  "@context": "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.0.json",
+  "type": "Assertion",
+  "id": "urn:uuid:550e8400-e29b-41d4-a716-446655440000",
+  "badge": {
+    "type": "BadgeClass",
+    "id": "urn:uuid:550e8400-e29b-41d4-a716-446655440001",
+    "description": "This badge certifies competency in essential lifesaving skills per international standards. Recipients have demonstrated proficiency in CPR, AED use, and management of choking emergencies for adults, children, and infants in clinical and community settings.",
+    "image": {
+      "id": "https://github.com/Shaukat-Khanum-Memorial-Cancer-Hospital/badges/blob/main/bls-logo.png?raw=true",
+      "type": "Image"
+    },
+    "tags": [
+      "BLS",
+      "CPR",
+      "AED",
+      "FirstAid",
+      "EmergencyCare",
+      "Healthcare",
+      "LifeSupport",
+      "Resuscitation"
+    ],
+    "name": "Basic Life Support Certification",
+    "alignment": [
+      {
+        "targetDescription": "Meets AHA 2020 Guidelines",
+        "targetName": "American Heart Association BLS Guidelines"
+      }
+    ],
+    "criteria": {
+      "narrative": "Successful completion of: 1) One-rescuer CPR 2) AED operation 3) Relief of choking 4) Bag-mask ventilation 5) Activation of emergency response systems"
+    },
+    "issuer": {
+      "type": "Profile",
+      "id": "urn:uuid:550e8400-e29b-41d4-a716-446655440002",
+      "description": "Shaukat Khanum Memorial Cancer Hospital and Research Centres (SKMCH&RC) are state-of-the-art cancer centres located in Lahore, Karachi and Peshawar, Pakistan.",
+      "name": "Shaukat Khanum Memorial Cancer Hospital & Research Centre"
+    }
+  },
+  "issuedOn": "2023-08-11T00:00:00Z",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "haseeb022@hotmail.com"
+  },
+  "verification": {
+    "type": "HostedBadge"
+  }
+}
